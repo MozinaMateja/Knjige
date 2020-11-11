@@ -14,3 +14,5 @@ Delovne hipoteze:
 - Kateri avtorji se največkrat pojavijo?
 - Ali število glasov vpliva na oceno?
 - Ali večje število ocen pomeni boljšo oceno?
+
+V csv in json datotekah so za vsako knjigo zapisani: id, naslov, zbirka(če je v zbirki), id avtorja, avtor, ocena, število ocen, leto izida in število glasov.
