@@ -1,7 +1,7 @@
 Najbolj priljubljene knjige zadnjih 100 let
 
 Analizirala bom 200 najbolj priljubljenih knjig zadnjih 100 let:
-[Goodreads](https://www.goodreads.com/book/popular_by_date/).
+[Goodreads](https://www.goodreads.com/book/popular_by_date).
 
 Za vsako knjigo bo zajeto:
 - naslov
